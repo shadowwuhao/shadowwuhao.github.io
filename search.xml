@@ -25,7 +25,7 @@
     </entry>
     
     <entry>
-      <title>Hello World</title>
+      <title>haxo支持文档</title>
       <link href="/2018/09/22/hello-world/"/>
       <url>/2018/09/22/hello-world/</url>
       
@@ -40,8 +40,8 @@
     
     <entry>
       <title>about</title>
-      <link href="/about/index-1.html"/>
-      <url>/about/index-1.html</url>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -49,8 +49,8 @@
     
     <entry>
       <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <link href="/about/index-1.html"/>
+      <url>/about/index-1.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
