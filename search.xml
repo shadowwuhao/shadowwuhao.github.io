@@ -3,28 +3,6 @@
   
     
     <entry>
-      <title>testtest</title>
-      <link href="/2018/09/23/testtest/"/>
-      <url>/2018/09/23/testtest/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    <entry>
-      <title>test_site</title>
-      <link href="/2018/09/23/test-site/"/>
-      <url>/2018/09/23/test-site/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      
-    </entry>
-    
-    <entry>
       <title>haxo支持文档</title>
       <link href="/2018/09/22/hello-world/"/>
       <url>/2018/09/22/hello-world/</url>
@@ -66,6 +44,15 @@
     </entry>
     
     <entry>
+      <title>tages</title>
+      <link href="/tages/index.html"/>
+      <url>/tages/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    <entry>
       <title>categories</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -78,15 +65,6 @@
       <title>tags</title>
       <link href="/tags/index.html"/>
       <url>/tags/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    <entry>
-      <title>tages</title>
-      <link href="/tages/index.html"/>
-      <url>/tages/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
