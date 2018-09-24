@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://www.nopipi.cn/"/>
-  <updated>2018-09-23T15:23:01.454Z</updated>
+  <updated>2018-09-24T09:46:35.908Z</updated>
   <id>http://www.nopipi.cn/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>一</title>
+    <link href="http://www.nopipi.cn/2018/09/24/%E4%B8%80/"/>
+    <id>http://www.nopipi.cn/2018/09/24/一/</id>
+    <published>2018-09-24T09:23:40.000Z</published>
+    <updated>2018-09-24T09:46:35.908Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;HEXO:&lt;a href=&quot;https://hexo.io/zh-cn/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;hexo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;GitHub:&lt;a href=&quot;https://github.com/&quot;
+        
+      
+    
+    </summary>
+    
+    
+      <category term="blog致谢资源" scheme="http://www.nopipi.cn/tags/blog%E8%87%B4%E8%B0%A2%E8%B5%84%E6%BA%90/"/>
+    
+  </entry>
   
   <entry>
     <title>haxo支持文档</title>

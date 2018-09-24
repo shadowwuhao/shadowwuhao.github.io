@@ -3,6 +3,23 @@
   
     
     <entry>
+      <title>一</title>
+      <link href="/2018/09/24/%E4%B8%80/"/>
+      <url>/2018/09/24/%E4%B8%80/</url>
+      
+        <content type="html"><![CDATA[<p>HEXO:<a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">hexo</a></p><p>GitHub:<a href="https://github.com/" target="_blank" rel="noopener">GitHub</a></p><p>知乎:<br><a href="https://zhuanlan.zhihu.com/p/26625249" target="_blank" rel="noopener">GitHub+Hexo搭建个人网站详细教程</a></p><p>主题支持：<br><a href="https://github.com/AlynxZhou/hexo-theme-aria/blob/master/README.zh_CN.md" target="_blank" rel="noopener">主题aria</a></p><p>本网站搭建过程中借用或应用了以上内容，在此致谢，并会在网站底部留有注明。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> blog致谢资源 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>haxo支持文档</title>
       <link href="/2018/09/22/hello-world/"/>
       <url>/2018/09/22/hello-world/</url>
@@ -18,8 +35,17 @@
     
     <entry>
       <title>about</title>
-      <link href="/about/index-1.html"/>
-      <url>/about/index-1.html</url>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    <entry>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -27,8 +53,8 @@
     
     <entry>
       <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <link href="/about/index-1.html"/>
+      <url>/about/index-1.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -47,15 +73,6 @@
       <title>tages</title>
       <link href="/tages/index.html"/>
       <url>/tages/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
