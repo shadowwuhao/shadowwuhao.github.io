@@ -3,11 +3,45 @@
   
     
     <entry>
+      <title>宿舍日记（一）</title>
+      <link href="/2018/09/25/%E5%AE%BF%E8%88%8D%E6%97%A5%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/"/>
+      <url>/2018/09/25/%E5%AE%BF%E8%88%8D%E6%97%A5%E8%AE%B0%EF%BC%88%E4%B8%80%EF%BC%89/</url>
+      
+        <content type="html"><![CDATA[<p>![正门]（<a href="http://i1.bvimg.com/663264/30d78244eb11db58.jpg）" target="_blank" rel="noopener">http://i1.bvimg.com/663264/30d78244eb11db58.jpg）</a></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 顺利又被锁在门外的三只 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
+      <title>口亨</title>
+      <link href="/2018/09/24/%E5%8F%A3%E4%BA%A8/"/>
+      <url>/2018/09/24/%E5%8F%A3%E4%BA%A8/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 没有那么多友情 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    <entry>
       <title>一</title>
       <link href="/2018/09/24/%E4%B8%80/"/>
       <url>/2018/09/24/%E4%B8%80/</url>
       
-        <content type="html"><![CDATA[<p>HEXO:<a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">hexo</a></p><p>GitHub:<a href="https://github.com/" target="_blank" rel="noopener">GitHub</a></p><p>知乎:<br><a href="https://zhuanlan.zhihu.com/p/26625249" target="_blank" rel="noopener">GitHub+Hexo搭建个人网站详细教程</a></p><p>主题支持：<br><a href="https://github.com/AlynxZhou/hexo-theme-aria/blob/master/README.zh_CN.md" target="_blank" rel="noopener">主题aria</a></p><p>本网站搭建过程中借用或应用了以上内容，在此致谢，并会在网站底部留有注明。</p>]]></content>
+        <content type="html"><![CDATA[<p>HEXO:<a href="https://hexo.io/zh-cn/" target="_blank" rel="noopener">HEXO</a></p><p>GitHub:<a href="https://github.com/" target="_blank" rel="noopener">GitHub</a></p><p>知乎:<br><a href="https://zhuanlan.zhihu.com/p/26625249" target="_blank" rel="noopener">GitHub+Hexo搭建个人网站详细教程</a></p><p>主题支持：<br><a href="https://github.com/AlynxZhou/hexo-theme-aria/blob/master/README.zh_CN.md" target="_blank" rel="noopener">主题aria</a></p><p>本网站搭建过程中借用或应用了以上内容，在此致谢，并会在网站底部留有注明。</p>]]></content>
       
       
       
@@ -34,9 +68,9 @@
   
     
     <entry>
-      <title>about</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>categories</title>
+      <link href="/categories/index-1.html"/>
+      <url>/categories/index-1.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -61,9 +95,9 @@
     </entry>
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index-1.html"/>
-      <url>/categories/index-1.html</url>
+      <title>about</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
