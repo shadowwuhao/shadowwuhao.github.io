@@ -54,7 +54,7 @@
     </entry>
     
     <entry>
-      <title>haxo支持文档</title>
+      <title>Hexo支持文档</title>
       <link href="/2018/09/22/hello-world/"/>
       <url>/2018/09/22/hello-world/</url>
       
@@ -68,9 +68,9 @@
   
     
     <entry>
-      <title>categories</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>about</title>
+      <link href="/about/index-1.html"/>
+      <url>/about/index-1.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -86,9 +86,9 @@
     </entry>
     
     <entry>
-      <title>about</title>
-      <link href="/about/index-1.html"/>
-      <url>/about/index-1.html</url>
+      <title>categories</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
